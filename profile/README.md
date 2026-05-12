@@ -67,7 +67,7 @@ Three things are unique:
 
 ---
 
-## Kerno — system-level incident diagnosis
+## Kerno: system-level incident diagnosis
 
 The other public product. Different problem space, same philosophy: live in the place where the decision is made, ship the answer in your terminal.
 
